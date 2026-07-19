@@ -11,7 +11,9 @@ provides the tabs.
 - **Ephemeral, no persistence.** `destroy-unattached on` — closing the foot
   window destroys the session and the server exits. Nothing lingers to reattach.
 - **One thing at a time.** No split panes; move between windows or pick from a list.
-- **Clean status bar.** No session name, no clock (GNOME's top bar already has those).
+- **Minimal status bar.** No session name, no clock (GNOME's top bar already has
+  those), and only the **active** window's name is shown — not the whole tab list.
+  Use the picker (`prefix + f`) to see all windows and switch.
 - **Truecolor** under foot via `terminal-overrides ",foot*:Tc"`.
 
 ## Keybinds
