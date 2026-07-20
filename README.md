@@ -18,7 +18,7 @@ provides the tabs.
 
 ## Keybinds
 
-Prefix is **`Ctrl-j`**. Press it, release, then:
+Prefix is **`Ctrl-Space`**. Press it, release, then:
 
 | Action | Key |
 |--------|-----|
